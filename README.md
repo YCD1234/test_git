@@ -1,3 +1,3 @@
 # test_git
-git_study
-git-online study
+--git_study
+--git-online study
